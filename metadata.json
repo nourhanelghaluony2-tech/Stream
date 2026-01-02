@@ -1,0 +1,8 @@
+{
+  "name": "ViraStream AI",
+  "description": "Advanced AI platform for automated text-to-video, viral horror shorts, watermark removal, and video enhancement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
